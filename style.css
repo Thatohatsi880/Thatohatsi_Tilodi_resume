@@ -1,0 +1,61 @@
+body{
+    margin:0;
+	    padding:0;
+	    background image:url("Trophy");
+}
+ 
+ hl{
+	 text-align:right;
+	 color: red;
+	 font-size : 20;
+	 font-style : clarendon;
+ }
+
+h2{
+    font-style:clarendon;
+	color:black;
+}
+
+p{
+   foot-size:19px;
+    color:black;
+}	
+	
+img{
+	width:200px;
+	height:200px;
+    border:10px solid black;
+	border-radius:5px;
+}
+
+
+#overlay{
+	margin: 400px auto;
+	width:1012px;
+	height:999px;
+	background-color:maroon;
+	border-radius: 100px;
+}
+
+.block1{
+	width:500px;
+	height:500px;
+	float:left;
+}
+
+.block2{
+	width:400px;
+	float: left;
+	margin-left:50px;
+}
+
+button{
+	 width:150px;
+	 height:50px;
+	 background-color:purple;
+	 border:0;
+	 border-radius:2px;
+	 font-size:15px;
+	 margin-top:5px
+}
+
